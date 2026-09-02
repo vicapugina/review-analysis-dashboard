@@ -68,6 +68,6 @@
 - `insights/` — полный аналитический отчёт (PDF)
 
 ## 🔗 Ссылки
-- [Дашборд в DataLens](вставь_ссылку_если_есть)
+- [Дашборд в DataLens](https://datalens.yandex/6dv4fqh47nnir)
 - [Исходные данные](data/reviews.xlsx)
 - [Полный отчёт](insights/Анализ_данных.pdf)
