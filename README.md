@@ -70,4 +70,4 @@
 ## 🔗 Ссылки
 - [Дашборд в DataLens](https://datalens.yandex/6dv4fqh47nnir)
 - [Исходные данные](data/reviews.xlsx)
-- [Полный отчёт](insights/Анализ_данных.pdf)
+- [Полный отчёт](insights/АНАЛИЗ данных.pdf)
